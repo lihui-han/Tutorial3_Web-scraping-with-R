@@ -7,4 +7,4 @@
 
 ## Reference:
 Web Scrape Text from ANY Website - Web Scraping in R (Part 1)
-Link: https://www.youtube.com/watch?v=v8Yh_4oE-Fs&list=PLr5uaPu5L7xLEclrT0-2TWAz5FTkfdUiW
+<br>Link: https://www.youtube.com/watch?v=v8Yh_4oE-Fs&list=PLr5uaPu5L7xLEclrT0-2TWAz5FTkfdUiW</br>
