@@ -1,7 +1,7 @@
 # Tutorial3_Web-scraping-with-R
 
-This project aim to complete a basic web scrapping using R.
-I scrape movies from IMDb into a data frame in R using the rvest library and then export the data frame as a csv.
+<br>This project aim to complete a basic web scrapping using R.</br>
+<br>I scrape movies from IMDb into a data frame in R using the rvest library and then export the data frame as a csv.</br>
 
 
 
